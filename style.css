@@ -33,3 +33,19 @@
 .tel {
   margin-bottom: 5px;
 }
+
+h1 {
+  width: 100%;
+  text-align: center;
+  background: goldenrod;
+  padding: 10px 0;
+}
+
+.container-main {
+  margin: 0 70px;
+}
+
+.some-text {
+  
+  margin: 50px;
+}
