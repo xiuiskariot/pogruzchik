@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
@@ -17,7 +17,6 @@
   width: 150px;
   text-align: center;
   padding: 15px;
-
 }
 
 .header_title {
@@ -32,6 +31,7 @@
 
 .tel {
   margin-bottom: 5px;
+
 }
 
 h1 {
@@ -46,6 +46,31 @@ h1 {
 }
 
 .some-text {
-  
   margin: 50px;
+}
+
+.car {
+  height: 200px;
+}
+
+article {
+  border: 1px solid black;
+  padding: 10px;
+
+  margin-bottom: 50px;
+}
+
+.article_title {
+  font-weight: 600;
+
+}
+
+.info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.super {
+  font-weight: 600;
+  margin-bottom: 20px;
 }
